@@ -1,0 +1,6 @@
+C:\Users\Mateus\Desktop\C#\Ex01\Ex01\bin\Debug\Ex01.exe.config
+C:\Users\Mateus\Desktop\C#\Ex01\Ex01\bin\Debug\Ex01.exe
+C:\Users\Mateus\Desktop\C#\Ex01\Ex01\bin\Debug\Ex01.pdb
+C:\Users\Mateus\Desktop\C#\Ex01\Ex01\obj\Debug\Ex01.csprojResolveAssemblyReference.cache
+C:\Users\Mateus\Desktop\C#\Ex01\Ex01\obj\Debug\Ex01.exe
+C:\Users\Mateus\Desktop\C#\Ex01\Ex01\obj\Debug\Ex01.pdb
